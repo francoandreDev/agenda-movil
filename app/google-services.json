@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807616481933",
+    "project_id": "fbproyecto-711b6",
+    "storage_bucket": "fbproyecto-711b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807616481933:android:ebfd85b5385d8dceeaf0c4",
+        "android_client_info": {
+          "package_name": "actividades.agenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApaGXc8AGWQsIXSjXLEyceD2P84J7AFGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

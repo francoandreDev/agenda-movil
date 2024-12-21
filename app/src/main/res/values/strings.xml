@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_task">Añadir nueva tarea o actividad</string>
+    <string name="elegir_fecha_fin">Elegir Fecha Fin</string>
+    <string name="elegir_fecha_inicio">Elegir Fecha Inicio</string>
+    <string name="tarea">Tarea</string>
+    <string name="nombre">Nombre</string>
+    <string name="dd_mm_yyyy_hh_mm_ss">dd-MM-YYYY/hh:mm:ss</string>
+    <string name="enviar">Enviar</string>
+    <string name="horario">Horario</string>
+    <string name="nueva">Nueva</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="agenda">Agenda</string>
+    <string name="tareas">Tareas</string>
+</resources>
